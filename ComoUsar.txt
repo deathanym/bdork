@@ -1,0 +1,23 @@
+1-Primero colocamos con que motor buscaremos
+ELejimos 1 (google)
+
+2-Luego colocamos opcion 1 simgle dork
+
+3-Ingresamos nuestro dork por buscar:
+Ejemplo: .php?id=101
+
+
+4-Cuando termine quedaran en nuestra carpeta el archivo g-link.txt con todo los dork
+
+5-Ahora apareceran 9 OPciones
+
+Si seleccionamos la opcion 3, escaneara todos los dork en busca de alguna vulnerabilidad.
+SI seleccionamos la opcion 5, Escanea toda las entradas posibles para probar el ingreso a su base de datos.
+Y Listo al ingresar y obtener informacion sobre esa vulneralidad ya tienes todo en la mesa.
+
+--------------------------------HalfSecurity.com-----------------------------------------------
+----------------------------Cursos HalfSecurity.com--------------------------------------------
+-----------------------------------------------------------------------------------------------
+------------------------Archivo V1 Bingoo - Modificado V1.5 bdork------------------------------
+-----------------------------------------------------------------------------------------------
+
